@@ -1,0 +1,1 @@
+powershell -Command "& {npm run devStart}"
